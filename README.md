@@ -12,4 +12,4 @@ NOVA IMS - Spring Semester 24/25
 
 📑 Written Report
 
-Click Here to access the written report.
+Click [Here](https://github.com/ruibluz/BDA_Group14/blob/main/BDA_Report_Group14.pdf) to access the written report.
