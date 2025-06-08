@@ -3,6 +3,7 @@
 Big Data Analytics
 
 NOVA IMS - Spring Semester 24/25
+
 👥 Team Members (Group 14)
 
 - Diogo Duarte, 20240525
